@@ -5,7 +5,7 @@ This repository contains the server-side implementation for the MCP Scene Genera
 ## 1. Preparation & Setup
 
 ### 1.0 Background Layout Data Preparations
-SAGE retrieves door textures from the objathor dataset. Please follow the following instructions:
+SAGE retrieves door textures from the objathor dataset. Please follow the following instructions (Copied from Holodeck: https://github.com/allenai/Holodeck/blob/main/README.md) You might need to install the objathor package:
 
 Download the data by running the following commands:
 ```bash
